@@ -8,40 +8,17 @@ This guide will help you contribute confidently, especially if you're new to ope
 
 ---
 
-## 🧠 Contribution Guidelines
-
-Please follow these to ensure smooth collaboration and maintain quality.
-
-### ✅ DOs
-
-- Check if an issue already exists before creating a new one.  
-- Ask to be **assigned** before starting work.  
-- Mention the issue number in your PR (`Fixes #<number>` or `Closes #<number>`).  
-- Test your changes locally before submitting a PR.  
-- Keep PRs focused — one feature or fix per PR.  
-- Use **screenshots** for any visual/UI updates.
-
-### ❌ DON’Ts
-
-- Don’t comment **"I want to work"** on issues already assigned to someone else.  
-- Don’t open PRs **without linking them to an issue**.  
-- Don’t spam with duplicate or irrelevant issues.
-
-### 🚀 What You Can Contribute
-
-- 🆕 Add new **resource cards** (title, link, description, and category).  
-- 🛠️ Improve **UI/UX** — layout, responsiveness, or animations.  
-- 🐞 Fix **bugs** — check the Issues tab.  
-- 📝 Improve **documentation** — fix typos, clarify instructions, or reformat content.
-
-
----
-
 ## 📌 Project Overview
 
 **Placement Resources** is a simple website that displays useful study and interview prep resources. Contributors add their own resource cards and/or help improve the website's UI/UX.
 
 Live Preview: [first-contrib-placement.netlify.app](https://first-contrib-placement.netlify.app/)
+
+---
+
+## ⭐ Show Your Support
+
+If you find this project helpful, consider ⭐ starring the repo — it motivates us to keep improving!
 
 ---
 
@@ -55,15 +32,25 @@ Live Preview: [first-contrib-placement.netlify.app](https://first-contrib-placem
 
 ---
 
-## 🔍 Find or Create an Issue
+## 🧠 Contribution Guidelines
 
-- Check the [Issues tab](https://github.com/Varshitha713/first-contrib-placement/issues) for available tasks.
-- ✅ **Only work on issues assigned to you.** If you're interested in an unassigned issue, comment:
-  > "Can I work on this?"
-  and wait for a maintainer to assign it.
-- ❌ Avoid commenting on someone else's issue unless you're offering help or feedback.
-- 🧠 Before creating a new issue:
-  - Search both open and closed issues to avoid duplicates.
+Please follow these to ensure smooth collaboration and maintain quality.
+
+### ✅ DOs
+
+- Check if an issue already exists before creating a new one.
+- Ask to be assigned before starting work.
+- Mention the issue number in your PR (`Fixes #<number>` or `Closes #<number>`).
+- Test your changes locally before submitting a PR.
+- Keep PRs focused — one feature or fix per PR.
+- Submit **one pull request per issue** to keep the review process clean and focused.
+- Use screenshots for any visual/UI updates.
+
+### ❌ DON’Ts
+
+- Don’t comment **"I want to work"** on issues already assigned to someone else.  
+- Don’t open PRs **without linking them to an issue**.  
+- Don’t spam with duplicate or irrelevant issues.
 
 ---
 
@@ -82,6 +69,27 @@ To maintain fairness, transparency, and active contribution in our open-source c
 Once your pull request is created and linked to an assigned issue, feel free to request another!  
 
 We're always happy to see active and consistent contributors. 😊
+
+---
+
+## 🚀 What You Can Contribute
+
+- 🆕 Add new **resource cards** (title, link, description, and category).  
+- 🛠️ Improve **UI/UX** — layout, responsiveness, or animations.  
+- 🐞 Fix **bugs** — check the Issues tab.  
+- 📝 Improve **documentation** — fix typos, clarify instructions, or reformat content.
+
+---
+
+## 🔍 Find or Create an Issue
+
+- Check the [Issues tab](https://github.com/Varshitha713/first-contrib-placement/issues) for available tasks.
+- ✅ **Only work on issues assigned to you.** If you're interested in an unassigned issue, comment:
+  > "Can I work on this?"
+  and wait for a maintainer to assign it.
+- ❌ Avoid commenting on someone else's issue unless you're offering help or feedback.
+- 🧠 Before creating a new issue:
+  - Search both open and closed issues to avoid duplicates.
 
 ---
 
@@ -183,9 +191,6 @@ docs: updated README with project setup instructions
 
 ---
 
-
-
-
 ## 🧪 Testing Your Changes
 
 Make sure your updates:
@@ -195,8 +200,6 @@ Make sure your updates:
 * Include test cases, if applicable
 
 ---
-
-
 
 ## 📜 Code of Conduct
 
@@ -210,8 +213,6 @@ We aim to foster a respectful, inclusive, and welcoming environment for everyone
 
 ---
 
-
-
 ## 💬 Support & Community
 
 Need help or want to brainstorm ideas?
@@ -223,20 +224,8 @@ We're here to help you grow and contribute successfully! 💪
 
 ---
 
-
-
-## ⭐ Show Your Support
-
-If you find this project helpful, consider ⭐ starring the repo — it motivates us to keep improving!
-
-
----
-
-
-
 ## 🙌 Credits
 
 Made with ❤️ by **Macha Varshitha**
 
 Open to feedback, contributions, and suggestions! 🚀
-
