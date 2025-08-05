@@ -67,6 +67,24 @@ Live Preview: [first-contrib-placement.netlify.app](https://first-contrib-placem
 
 ---
 
+## 🧠 Contributor Assignment Policy
+
+To maintain fairness, transparency, and active contribution in our open-source community, we follow these simple rules regarding issue assignments:
+
+### 🔢 Issue Assignment Limit
+
+- ✅ A contributor can be assigned up to **2 open issues** at a time.
+- 🚫 You **cannot be assigned new issues** until you've submitted a **pull request (PR)** for at least **one** of your current assignments.
+- 🕐 This ensures fair opportunity for everyone and avoids issue hoarding or inactivity.
+
+### ✅ Tip for Contributors
+
+Once your pull request is created and linked to an assigned issue, feel free to request another!  
+
+We're always happy to see active and consistent contributors. 😊
+
+---
+
 ## 🧾 Steps to Add a Resource or Make Changes
 
 ### 1. Fork and Clone
