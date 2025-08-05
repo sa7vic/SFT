@@ -1,10 +1,41 @@
 # 🤝 Contributing to Placement Resources
 
-Hi there! 👋 We're thrilled you're considering contributing to this open-source project. Whether you're here through **GSSoC’25**, learning HTML/CSS/JS, or just want to help out — you're most welcome! 💜
+Welcome to the community! 🎉
 
-This guide will walk you through the process of contributing effectively.
+Thank you for your interest in contributing to Placement Resources — a centralized platform to share study and interview preparation materials for students and job seekers. This guide will help you contribute confidently, especially if you're new to open source.
 
------
+This guide will help you contribute confidently, especially if you're new to open source.
+
+---
+
+## 🧠 Contribution Guidelines
+
+Please follow these to ensure smooth collaboration and maintain quality.
+
+### ✅ DOs
+
+- Check if an issue already exists before creating a new one.  
+- Ask to be **assigned** before starting work.  
+- Mention the issue number in your PR (`Fixes #<number>` or `Closes #<number>`).  
+- Test your changes locally before submitting a PR.  
+- Keep PRs focused — one feature or fix per PR.  
+- Use **screenshots** for any visual/UI updates.
+
+### ❌ DON’Ts
+
+- Don’t comment **"I want to work"** on issues already assigned to someone else.  
+- Don’t open PRs **without linking them to an issue**.  
+- Don’t spam with duplicate or irrelevant issues.
+
+### 🚀 What You Can Contribute
+
+- 🆕 Add new **resource cards** (title, link, description, and category).  
+- 🛠️ Improve **UI/UX** — layout, responsiveness, or animations.  
+- 🐞 Fix **bugs** — check the Issues tab.  
+- 📝 Improve **documentation** — fix typos, clarify instructions, or reformat content.
+
+
+---
 
 ## 📌 Project Overview
 
@@ -12,7 +43,7 @@ This guide will walk you through the process of contributing effectively.
 
 Live Preview: [first-contrib-placement.netlify.app](https://first-contrib-placement.netlify.app/)
 
------
+---
 
 ## 📌 Before You Begin
 
@@ -36,26 +67,15 @@ Live Preview: [first-contrib-placement.netlify.app](https://first-contrib-placem
 
 ---
 
-## 🚀 How to Contribute
-
-### 🧠 What You Can Do
-
-- 🧩 Add a new **resource card** (with link, title, description, and category)
-- 🎨 Improve **UI/UX** (e.g., responsiveness, dark mode, layout enhancements)
-- 🐞 Fix **bugs** or improve folder structure
-- 📖 Enhance or update **documentation**
-
----
-
 ## 🧾 Steps to Add a Resource or Make Changes
 
 ### 1. Fork and Clone
 
 ```bash
 # Fork the repository on GitHub
-git clone https://github.com/Varshitha713/first-contrib-placement
+git clone https://github.com/Varshitha713/first-contrib-placement.git
 cd first-contrib-placement
-````
+```
 
 ### 2. Create a Branch
 
@@ -125,15 +145,10 @@ docs: updated README with project setup instructions
 ### ✅ Pull Requests
 * Reference the relevant issue. Link the issue using :
   
-  nginx
-  
-  Copy
-
-  Edit
-
+  ```bash
   Fixes #34
-
   Resolves #12
+  ```
   
 * Keep PRs focused and minimal, and use labels like bug, enhancement, or documentation.
 * For UI changes, include before/after screenshots and ensure it works in both light and dark mode.
