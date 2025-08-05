@@ -196,6 +196,7 @@ We're here to help you grow and contribute successfully! 💪
 
 If you find this project helpful, consider ⭐ starring the repo — it motivates us to keep improving!
 
+
 ---
 
 
@@ -203,5 +204,6 @@ If you find this project helpful, consider ⭐ starring the repo — it motivate
 ## 🙌 Credits
 
 Made with ❤️ by **Macha Varshitha**
+
 Open to feedback, contributions, and suggestions! 🚀
 
